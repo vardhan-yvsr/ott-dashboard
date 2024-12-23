@@ -50,9 +50,6 @@ This repository contains a Power BI dashboard showcasing insights from multiple 
 - **Power BI Desktop** installed on your machine.
 - **Data connection** (if data source updates are necessary).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
